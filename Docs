@@ -1,0 +1,51 @@
+# 📘 Project Documentation – Personal Health Coach
+
+## 📌 Problem Statement
+
+Many people do not track their daily health metrics like BMI and water intake.
+This project helps users monitor basic health information easily.
+
+---
+
+## 🎯 Objectives
+
+- Build a responsive health tracking web app
+- Implement BMI calculation logic
+- Practice DOM manipulation using JavaScript
+- Improve UI using CSS
+
+---
+
+## 🧮 Algorithm – BMI Calculation
+
+1. Input height (in meters)
+2. Input weight (in kg)
+3. Calculate:
+   BMI = weight / (height * height)
+4. Display category based on BMI range
+
+---
+
+## 📊 BMI Categories
+
+- < 18.5 → Underweight
+- 18.5 – 24.9 → Normal
+- 25 – 29.9 → Overweight
+- 30+ → Obese
+
+---
+
+## 🔐 Limitations
+
+- No data storage
+- No authentication
+- No backend integration
+
+---
+
+## 🌟 Future Scope
+
+- Add login/signup
+- Connect to database
+- Add calorie tracking
+- Mobile app version
